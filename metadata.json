@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "An application for middle school teachers in Vietnam to generate multiple-choice questions on various subjects using AI.",
+  "requestFramePermissions": []
+}
